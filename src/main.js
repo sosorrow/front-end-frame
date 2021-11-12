@@ -7,8 +7,8 @@ import Wechat from './utils/wechat_auth.js'
 
 Wechat.init({
 	appid: 'wx4a8fb707007a7e7e',
-	title: "一份来自遵义登跃计划的邀请",
-	desc: "8月7日整点烤鱼烤猪烤全羊放肆吃到爽", 
+	title: "title",
+	desc: "desc", 
 	link: "https://g.zhuahudong.com/bh/20210806/index.html", 
 	imgUrl: "https://g.zhuahudong.com/bh/20210806/images/share_img.jpg"
 });

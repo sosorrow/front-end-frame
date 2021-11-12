@@ -1,7 +1,7 @@
-import LetterCode from './pages/LetterCode.vue'
+import Home from './pages/home.vue'
 
 let routes = [
-	{ path: '/', component: LetterCode }
+	{ path: '/', component: Home }
 ]
 
 export default routes
